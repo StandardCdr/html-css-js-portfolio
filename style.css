@@ -165,6 +165,7 @@ section {
 #profile {
     display: flex;
     justify-content: center;
+    align-items: center;
     gap: 6rem;
     height: 80vh;
 }
@@ -186,7 +187,6 @@ section {
 }
 
 .section__text__p1 {
-    margin-top: 3.5rem;
     text-align: center;
 }
 
@@ -194,7 +194,7 @@ section {
     align-self: center;
     text-align: center;
     font-size: 1.75rem;
-    margin-bottom: 1rem;
+    margin-bottom: 1rem;    
 }
 
 .title {
@@ -207,6 +207,7 @@ section {
     justify-content: center;
     margin-top: 1rem;
     gap: 1rem;
+    margin-bottom: 5rem;
 }
 
 /* ICONS */
@@ -288,6 +289,7 @@ section {
 
 .about-pic {
     border-radius: 2rem;
+    width: 300px;
 }
 
 .arrow {
